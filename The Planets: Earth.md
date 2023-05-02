@@ -1,6 +1,6 @@
 Link: [The Planets: Earth](https://www.vulnhub.com/entry/the-planets-earth,755/)
 
-[Walkthrough (Video) by Techno Science](https://youtu.be/e9de7AK0i2s):
+[Walkthrough (Video) by Techno Science](https://youtu.be/e9de7AK0i2s):<br>
 Walkthrough (Text): 
 
 ## Enumeration
