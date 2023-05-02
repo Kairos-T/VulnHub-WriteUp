@@ -34,7 +34,9 @@ https://terratest.earth.local -> Accept risk
  
  ## Decrypting:
  - Cyberchef download on google, save file
+ 
  ![image](https://user-images.githubusercontent.com/80029462/235673037-efdf02fe-ab4d-4a44-aff9-608f59213e31.png)
+ 
 Use Wired Connection 1 if server error
 - After download change back to usual connection
 - Extract file, click on HTNL
