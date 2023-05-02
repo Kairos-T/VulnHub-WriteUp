@@ -4,4 +4,4 @@ Write ups for my VulnHub journey, in which I will document my approach to scanni
 Tools: 
 
 - [VMWare Workstation Pro](https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html)
-- [Kali Linux](https://www.kali.org/get-kali/#kali-virtual-machines)
+- [Kali Linux](https://www.kali.org/get-kali/#kali-virtual-machines) ([7Zip](https://www.7-zip.org/))
